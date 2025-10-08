@@ -2,7 +2,7 @@
 title: "Inicio"
 description: "Bienvenido a mi jardín digital."
 ---
-Este es un espacio de home, un jardín digital de notas y conceptos.
+PRUEBO CAMBIAR
 
 Aquí puedes escribir contenido personalizado que se mostrará arriba de la galería de posts.
 
